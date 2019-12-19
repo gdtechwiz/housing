@@ -13,4 +13,5 @@ yarn-error.log
 .env
 log.txt
 * linguist-vendored
+*.js linguist-vendored=false
 
